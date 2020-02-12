@@ -40,7 +40,7 @@
 
     #sections{
         margin-left: -150px;
-        margin-top: -500px;
+        margin-top: 50px;
         width: 250px;
         padding-bottom:300px;
     }
